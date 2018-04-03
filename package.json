@@ -34,7 +34,7 @@
     "socket.io-adapter": "^1.1.0"
   },
   "devDependencies": {
-    "@google-cloud/pubsub": "^0.11.0",
+    "@google-cloud/pubsub": "^0.18.0",
     "code": "^3.0.1",
     "lab": "^10.7.1",
     "socket.io": "^2.0.1",
